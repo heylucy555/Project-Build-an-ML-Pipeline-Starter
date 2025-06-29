@@ -1,4 +1,5 @@
 Link to the Github Repo: https://github.com/heylucy555/Project-Build-an-ML-Pipeline-Starter/tree/main
+Link to the wandb report: https://api.wandb.ai/links/lucbhickey-western-governors-university/fn9tidb6
 
 
 
